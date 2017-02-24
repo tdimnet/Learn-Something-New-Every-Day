@@ -19,3 +19,12 @@ Started on February 22th 2017
 **Thoughts:** Well, this course is pretty interesting even though I already know some elements.
 
 **Link to Ressources:** [HTTP Basics](https://teamtreehouse.com/library/http-basics)
+
+
+## Day 3: February 24. Friday
+
+**Today's Progress:** Today I have learned how to send data with a POST Request by using Telnet. The thing is: the length of the POST Data sent should be the same as the Content-Length within the HTTP Request.
+
+**Thoughts:** Well, using Telnet & plain text HTTP Requests & Responses are a bit tedious ^^.
+
+**Link to Ressources:** [HTTP Basics](https://teamtreehouse.com/library/http-basics)
