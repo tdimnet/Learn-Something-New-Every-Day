@@ -28,3 +28,12 @@ Started on February 22th 2017
 **Thoughts:** Well, using Telnet & plain text HTTP Requests & Responses are a bit tedious ^^.
 
 **Link to Ressources:** [HTTP Basics](https://teamtreehouse.com/library/http-basics)
+
+
+## Day 4: February 26. Sunday
+
+**Today's Progress:** After telnet, I saw that I can retrieve the exact same amount of information using my favorite web browser. It can sort the value in html or in plain text.
+
+**Thoughts:** Ok, now I know that I can retrieve the information needed just with my web browser. I wonder what other crazy stuffs my web browser can do :D.
+
+**Link to Ressources:** [HTTP Basics](https://teamtreehouse.com/library/http-basics)
