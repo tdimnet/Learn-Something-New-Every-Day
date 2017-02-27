@@ -9,7 +9,7 @@ Started on February 22th 2017
 
 **Thoughts:** This is my very first day of this new challenge and I am a bit excited. I am looking forward to continue this journey :).
 
-**Link to Ressources:** [HTTP Basics](https://teamtreehouse.com/library/http-basics)
+**Link to Resources:** [HTTP Basics](https://teamtreehouse.com/library/http-basics)
 
 
 ## Day 2: February 23. Thursday
@@ -18,7 +18,7 @@ Started on February 22th 2017
 
 **Thoughts:** Well, this course is pretty interesting even though I already know some elements.
 
-**Link to Ressources:** [HTTP Basics](https://teamtreehouse.com/library/http-basics)
+**Link to Resources:** [HTTP Basics](https://teamtreehouse.com/library/http-basics)
 
 
 ## Day 3: February 24. Friday
@@ -27,7 +27,7 @@ Started on February 22th 2017
 
 **Thoughts:** Well, using Telnet & plain text HTTP Requests & Responses are a bit tedious ^^.
 
-**Link to Ressources:** [HTTP Basics](https://teamtreehouse.com/library/http-basics)
+**Link to Resources:** [HTTP Basics](https://teamtreehouse.com/library/http-basics)
 
 
 ## Day 4: February 26. Sunday
@@ -36,4 +36,13 @@ Started on February 22th 2017
 
 **Thoughts:** Ok, now I know that I can retrieve the information needed just with my web browser. I wonder what other crazy stuffs my web browser can do :D.
 
-**Link to Ressources:** [HTTP Basics](https://teamtreehouse.com/library/http-basics)
+**Link to Resources:** [HTTP Basics](https://teamtreehouse.com/library/http-basics)
+
+
+## Day 5: February 27. Monday
+
+**Today's Progress:** Just saw how forms and anchors work with GET Requests within my web browser. Play with java.com & its search function.
+
+**Thoughts:** Yep, I think I understand the main part & the main goal of this course. And maybe, I will have a look of forms in action.
+
+**Link to Resources:** [HTTP Basics](https://teamtreehouse.com/library/http-basics)
