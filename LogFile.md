@@ -46,3 +46,12 @@ Started on February 22th 2017
 **Thoughts:** Yep, I think I understand the main part & the main goal of this course. And maybe, I will have a look of forms in action.
 
 **Link to Resources:** [HTTP Basics](https://teamtreehouse.com/library/http-basics)
+
+
+## Day 6: February 28. Tuesday
+
+**Today's Progress:** Finish the course by working with forms and POST Requests. Oh and I have got my Techdegree :D
+
+**Thoughts:** Great course, great day! I don't know what course I start next :).
+
+**Link to Resources:** [HTTP Basics](https://teamtreehouse.com/library/http-basics)
