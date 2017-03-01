@@ -55,3 +55,12 @@ Started on February 22th 2017
 **Thoughts:** Great course, great day! I don't know what course I start next :).
 
 **Link to Resources:** [HTTP Basics](https://teamtreehouse.com/library/http-basics)
+
+
+## Day 7: March 1. Wednesday
+
+**Today's Progress:** Start a course which deals with career assessment and how to get prepared for finding a job.
+
+**Thoughts:** Ok, I am maybe nervous (well, I am definitely nervous ^^) for my job interview tomorrow morning and the more I see things about job interviews, the more I am nervous ^^'.
+
+**Link to Resources:** [Careers Foundations](https://teamtreehouse.com/library/careers-foundations)
