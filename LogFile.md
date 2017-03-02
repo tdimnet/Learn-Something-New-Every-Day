@@ -64,3 +64,12 @@ Started on February 22th 2017
 **Thoughts:** Ok, I am maybe nervous (well, I am definitely nervous ^^) for my job interview tomorrow morning and the more I see things about job interviews, the more I am nervous ^^'.
 
 **Link to Resources:** [Careers Foundations](https://teamtreehouse.com/library/careers-foundations)
+
+
+## Day 8: March 2. Thursday
+
+**Today's Progress:** I start the bootstrap 4 course. I am already not some things about bootstrap but I think I still have things to learn with this very nice framework.
+
+**Thoughts:** Ok, the job interview went well and I have an other interview tomorrow. However I have decided to start the bootstrap course :).
+
+**Link to Resources:** [Bootstrap 4 Basics](https://teamtreehouse.com/library/bootstrap-4-basics)
