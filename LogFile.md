@@ -73,3 +73,12 @@ Started on February 22th 2017
 **Thoughts:** Ok, the job interview went well and I have an other interview tomorrow. However I have decided to start the bootstrap course :).
 
 **Link to Resources:** [Bootstrap 4 Basics](https://teamtreehouse.com/library/bootstrap-4-basics)
+
+
+## Day 8: March 2. Thursday
+
+**Today's Progress:** I have continued studying bootstrap-4 framework. It's been a while since I do not touch Bootstrap utilities and this is great. I have already seen things I can use on my day to day workflow.
+
+**Thoughts:** Well as often with Treehouse, this course provides a lot of great resources and it is really well explained!
+
+**Link to Resources:** [Bootstrap 4 Basics](https://teamtreehouse.com/library/bootstrap-4-basics)
