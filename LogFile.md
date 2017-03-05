@@ -75,10 +75,19 @@ Started on February 22th 2017
 **Link to Resources:** [Bootstrap 4 Basics](https://teamtreehouse.com/library/bootstrap-4-basics)
 
 
-## Day 8: March 2. Thursday
+## Day 9: March 3. Friday
 
 **Today's Progress:** I have continued studying bootstrap-4 framework. It's been a while since I do not touch Bootstrap utilities and this is great. I have already seen things I can use on my day to day workflow.
 
 **Thoughts:** Well as often with Treehouse, this course provides a lot of great resources and it is really well explained!
+
+**Link to Resources:** [Bootstrap 4 Basics](https://teamtreehouse.com/library/bootstrap-4-basics)
+
+
+## Day 10: March 5. Sunday
+
+**Today's Progress:** I started working on the Bootstrap layout system including the container, rows and cols system. For now, I just made the layout part of the class.
+
+**Thoughts:** I saw the project we are working with and it seems to be really nice and great! I cannot wait to go further on this course!
 
 **Link to Resources:** [Bootstrap 4 Basics](https://teamtreehouse.com/library/bootstrap-4-basics)
