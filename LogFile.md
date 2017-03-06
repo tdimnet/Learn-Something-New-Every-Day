@@ -91,3 +91,12 @@ Started on February 22th 2017
 **Thoughts:** I saw the project we are working with and it seems to be really nice and great! I cannot wait to go further on this course!
 
 **Link to Resources:** [Bootstrap 4 Basics](https://teamtreehouse.com/library/bootstrap-4-basics)
+
+
+## Day 11: March 6. Monday
+
+**Today's Progress:** today I've learned how to easily give style to the content by applying class for text colors. I also saw how rearrange column sizing, ordering & offsetting.
+
+**Thoughts:** I found out some new things with the Bootstrap layout grid system and I hope I will test them soon on a project :).
+
+**Link to Resources:** [Bootstrap 4 Basics](https://teamtreehouse.com/library/bootstrap-4-basics)
