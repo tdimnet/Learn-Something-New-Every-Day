@@ -100,3 +100,12 @@ Started on February 22th 2017
 **Thoughts:** I found out some new things with the Bootstrap layout grid system and I hope I will test them soon on a project :).
 
 **Link to Resources:** [Bootstrap 4 Basics](https://teamtreehouse.com/library/bootstrap-4-basics)
+
+
+## Day 12: March 3. Tuesday
+
+**Today's Progress:** Build a Navbar component with Bootstrap and add a Jumbotron to showcase key content.
+
+**Thoughts:** There is one thing which is really great about this course: it is not up-to-date. This could be a bad thing but it forces me to read the new bootstrap's doc. 
+
+**Link to Resources:** [Bootstrap 4 Basics](https://teamtreehouse.com/library/bootstrap-4-basics)
