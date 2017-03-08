@@ -106,6 +106,15 @@ Started on February 22th 2017
 
 **Today's Progress:** Build a Navbar component with Bootstrap and add a Jumbotron to showcase key content.
 
-**Thoughts:** There is one thing which is really great about this course: it is not up-to-date. This could be a bad thing but it forces me to read the new bootstrap's doc. 
+**Thoughts:** There is one thing which is really great about this course: it is not up-to-date. This could be a bad thing but it forces me to read the new bootstrap's doc.
+
+**Link to Resources:** [Bootstrap 4 Basics](https://teamtreehouse.com/library/bootstrap-4-basics)
+
+
+## Day 13: March 4. Wednesday
+
+**Today's Progress:** Added buttons & button groups to the school project. Also saw how to create inline navs and dropdown buttons.
+
+**Thoughts:** I saw a new thing concerning Bootstrap 4 today. The card class which helps to display small containers including images and text.
 
 **Link to Resources:** [Bootstrap 4 Basics](https://teamtreehouse.com/library/bootstrap-4-basics)
