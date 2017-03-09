@@ -84,7 +84,7 @@ Started on February 22th 2017
 **Link to Resources:** [Bootstrap 4 Basics](https://teamtreehouse.com/library/bootstrap-4-basics)
 
 
-## Day 10: March 5. Sunday
+## Day 10: March 4. Sunday
 
 **Today's Progress:** I started working on the Bootstrap layout system including the container, rows and cols system. For now, I just made the layout part of the class.
 
@@ -93,7 +93,7 @@ Started on February 22th 2017
 **Link to Resources:** [Bootstrap 4 Basics](https://teamtreehouse.com/library/bootstrap-4-basics)
 
 
-## Day 11: March 6. Monday
+## Day 11: March 5. Saturday
 
 **Today's Progress:** today I've learned how to easily give style to the content by applying class for text colors. I also saw how rearrange column sizing, ordering & offsetting.
 
@@ -102,7 +102,7 @@ Started on February 22th 2017
 **Link to Resources:** [Bootstrap 4 Basics](https://teamtreehouse.com/library/bootstrap-4-basics)
 
 
-## Day 12: March 3. Tuesday
+## Day 12: March 7. Tuesday
 
 **Today's Progress:** Build a Navbar component with Bootstrap and add a Jumbotron to showcase key content.
 
@@ -111,10 +111,28 @@ Started on February 22th 2017
 **Link to Resources:** [Bootstrap 4 Basics](https://teamtreehouse.com/library/bootstrap-4-basics)
 
 
-## Day 13: March 4. Wednesday
+## Day 13: March 8. Wednesday
 
 **Today's Progress:** Added buttons & button groups to the school project. Also saw how to create inline navs and dropdown buttons.
 
 **Thoughts:** I saw a new thing concerning Bootstrap 4 today. The card class which helps to display small containers including images and text.
+
+**Link to Resources:** [Bootstrap 4 Basics](https://teamtreehouse.com/library/bootstrap-4-basics)
+
+
+## Day 14: March 9. Thursday
+
+**Today's Progress:** Added buttons & button groups to the school project. Also saw how to create inline navs and dropdown buttons.
+
+**Thoughts:** I saw a new thing concerning Bootstrap 4 today. The card class which helps to display small containers including images and text.
+
+**Link to Resources:** [Bootstrap 4 Basics](https://teamtreehouse.com/library/bootstrap-4-basics)
+
+
+## Day 15: March 9. Thursday
+
+**Today's Progress:** Worked with List Group in order to display the list of the confs & with Bootstrap's JavaScript & jQuery by adding a modal window and a ScrollSpy feature.
+
+**Thoughts:** I am starting to see how simple it is to add JavaScript functionalities to a page without to code a single line of JavaScript
 
 **Link to Resources:** [Bootstrap 4 Basics](https://teamtreehouse.com/library/bootstrap-4-basics)
