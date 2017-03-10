@@ -136,3 +136,12 @@ Started on February 22th 2017
 **Thoughts:** I am starting to see how simple it is to add JavaScript functionalities to a page without to code a single line of JavaScript
 
 **Link to Resources:** [Bootstrap 4 Basics](https://teamtreehouse.com/library/bootstrap-4-basics)
+
+
+## Day 16: March 10. Friday
+
+**Today's Progress:** Made the quiz and start working on building forms with Bootstrap. For once I have learned a lot of how to build forms with Bootstrap!
+
+**Thoughts:** How ok huge lesson today! Building forms with Bootstrap is so easy and fun!
+
+**Link to Resources:** [Bootstrap 4 Basics](https://teamtreehouse.com/library/bootstrap-4-basics)
