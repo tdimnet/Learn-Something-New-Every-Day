@@ -145,3 +145,12 @@ Started on February 22th 2017
 **Thoughts:** How ok huge lesson today! Building forms with Bootstrap is so easy and fun!
 
 **Link to Resources:** [Bootstrap 4 Basics](https://teamtreehouse.com/library/bootstrap-4-basics)
+
+
+## Day 17: March 15. Wednesday
+
+**Today's Progress:** Almost done with this course. I need to finish the last quiz and I'm done! Tomorrow, I will start working on the DOM Course.
+
+**Thoughts:** Well, nice course :). I'll will use Bootstrap V4 in my next project, no doubts!
+
+**Link to Resources:** [Bootstrap 4 Basics](https://teamtreehouse.com/library/bootstrap-4-basics)
