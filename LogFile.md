@@ -154,3 +154,12 @@ Started on February 22th 2017
 **Thoughts:** Well, nice course :). I'll will use Bootstrap V4 in my next project, no doubts!
 
 **Link to Resources:** [Bootstrap 4 Basics](https://teamtreehouse.com/library/bootstrap-4-basics)
+
+
+## Day 18: March 16. Thursday
+
+**Today's Progress:** Finish the quiz of the Bootstrap course and start working on the JavaScript and the DOM course. Did 4 units on it.
+
+**Thoughts:** The course about JavaScript and the DOM is quite interesting so far even though I haven't coded yet.
+
+**Link to Resources:** [JavaScript and the DOM](https://teamtreehouse.com/library/javascript-and-the-dom-2)
