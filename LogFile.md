@@ -163,3 +163,12 @@ Started on February 22th 2017
 **Thoughts:** The course about JavaScript and the DOM is quite interesting so far even though I haven't coded yet.
 
 **Link to Resources:** [JavaScript and the DOM](https://teamtreehouse.com/library/javascript-and-the-dom-2)
+
+
+## Day 19: March 17. Friday
+
+**Today's Progress:** Finish the first unit of the JS and the DOM part and start following the second unit which deals with selecting elements inside the web page with JavaScript.
+
+**Thoughts:** This course is really well done and I am trying to not doing it in one time. I will start following the Angular 2 course in the same time but with 2/3 lessons per day.
+
+**Link to Resources:** [JavaScript and the DOM](https://teamtreehouse.com/library/javascript-and-the-dom-2)
