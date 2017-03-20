@@ -172,3 +172,12 @@ Started on February 22th 2017
 **Thoughts:** This course is really well done and I am trying to not doing it in one time. I will start following the Angular 2 course in the same time but with 2/3 lessons per day.
 
 **Link to Resources:** [JavaScript and the DOM](https://teamtreehouse.com/library/javascript-and-the-dom-2)
+
+
+## Day 20: March 20. Monday
+
+**Today's Progress:** I continue working on the JS course and work with the selection of DOM elements with document methods.
+
+**Thoughts:** I think I've forgotten to publish my week-end work ^^. However I am going to speed up this course a bit. I have already finished my project ;).
+
+**Link to Resources:** [JavaScript and the DOM](https://teamtreehouse.com/library/javascript-and-the-dom-2)
