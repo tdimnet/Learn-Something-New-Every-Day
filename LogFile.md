@@ -181,3 +181,12 @@ Started on February 22th 2017
 **Thoughts:** I think I've forgotten to publish my week-end work ^^. However I am going to speed up this course a bit. I have already finished my project ;).
 
 **Link to Resources:** [JavaScript and the DOM](https://teamtreehouse.com/library/javascript-and-the-dom-2)
+
+
+## Day 21: March 21. Tuesday
+
+**Today's Progress:** Finish the second unit of the DOM course and start working on the third. I start looking at how we can make changes to the DOM with JavaScript.
+
+**Thoughts:** For now, I have not really big issues with the course :).
+
+**Link to Resources:** [JavaScript and the DOM](https://teamtreehouse.com/library/javascript-and-the-dom-2)
