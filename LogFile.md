@@ -190,3 +190,12 @@ Started on February 22th 2017
 **Thoughts:** For now, I have not really big issues with the course :).
 
 **Link to Resources:** [JavaScript and the DOM](https://teamtreehouse.com/library/javascript-and-the-dom-2)
+
+
+## Day 22: March 22. Wednesday
+
+**Today's Progress:** Did seven steps within the third unit of the course which deal with modifying, styling, appending and removing elements inside a web page.
+
+**Thoughts:** I am trying to not move to fast inside this course in order to understand things I may have never seen before. I need to do between 5 and 7 steps a day :).
+
+**Link to Resources:** [JavaScript and the DOM](https://teamtreehouse.com/library/javascript-and-the-dom-2)
