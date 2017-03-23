@@ -199,3 +199,12 @@ Started on February 22th 2017
 **Thoughts:** I am trying to not move to fast inside this course in order to understand things I may have never seen before. I need to do between 5 and 7 steps a day :).
 
 **Link to Resources:** [JavaScript and the DOM](https://teamtreehouse.com/library/javascript-and-the-dom-2)
+
+
+## Day 23: March 23. Thursday
+
+**Today's Progress:** Finish the unit concerning the changes we can make to the DOM and start the unit about user interactions and events.
+
+**Thoughts:** 7 units with this course today. I am happy to see that I have already some good practices :).
+
+**Link to Resources:** [JavaScript and the DOM](https://teamtreehouse.com/library/javascript-and-the-dom-2)
