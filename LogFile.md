@@ -208,3 +208,12 @@ Started on February 22th 2017
 **Thoughts:** 7 units with this course today. I am happy to see that I have already some good practices :).
 
 **Link to Resources:** [JavaScript and the DOM](https://teamtreehouse.com/library/javascript-and-the-dom-2)
+
+
+## Day 24: March 24. Friday
+
+**Today's Progress:** How! I've just learned something very fancy with JavaScript: the property event.parendNode and its relative properties. That's is something really cool!
+
+**Thoughts:** happy, concentrated, focus and smiling: this is the way I feel today :).
+
+**Link to Resources:** [JavaScript and the DOM](https://teamtreehouse.com/library/javascript-and-the-dom-2)
