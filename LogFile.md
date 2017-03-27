@@ -217,3 +217,12 @@ Started on February 22th 2017
 **Thoughts:** happy, concentrated, focus and smiling: this is the way I feel today :).
 
 **Link to Resources:** [JavaScript and the DOM](https://teamtreehouse.com/library/javascript-and-the-dom-2)
+
+
+## Day 25: March 27. Monday
+
+**Today's Progress:** I learned two DOM properties today: the prevSiblingElement and the nextSiblingElement. These two new properties will help me a lot.
+
+**Thoughts:** After a two days break because of my brother's birthday, I am still feeling focus and concentrated. It's great!
+
+**Link to Resources:** [JavaScript and the DOM](https://teamtreehouse.com/library/javascript-and-the-dom-2)
