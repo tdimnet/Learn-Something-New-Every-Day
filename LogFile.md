@@ -226,3 +226,12 @@ Started on February 22th 2017
 **Thoughts:** After a two days break because of my brother's birthday, I am still feeling focus and concentrated. It's great!
 
 **Link to Resources:** [JavaScript and the DOM](https://teamtreehouse.com/library/javascript-and-the-dom-2)
+
+
+## Day 26: March 28. Tuesday
+
+**Today's Progress:** Finished the two exercises of the course about JavaScript and the DOM and start working on the new course: DOM Scripting by Example.
+
+**Thoughts:** I am feeling a bit overwhelmed today. I feel I start having a good understanding of JavaScript but every time I take a new course I feel confuse and lost about the amount of knowledge needed.
+
+**Link to Resources:** [DOM Scripting By Example](https://teamtreehouse.com/library/dom-scripting-by-example)
