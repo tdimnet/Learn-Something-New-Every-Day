@@ -235,3 +235,12 @@ Started on February 22th 2017
 **Thoughts:** I am feeling a bit overwhelmed today. I feel I start having a good understanding of JavaScript but every time I take a new course I feel confuse and lost about the amount of knowledge needed.
 
 **Link to Resources:** [DOM Scripting By Example](https://teamtreehouse.com/library/dom-scripting-by-example)
+
+
+## Day 27: March 29. Wednesday
+
+**Today's Progress:** Continued learning on the DOM Scripting course and made 5 units today.
+
+**Thoughts:** quite cool and relax. I realize that I am already using some good practices of JavaScript :).
+
+**Link to Resources:** [DOM Scripting By Example](https://teamtreehouse.com/library/dom-scripting-by-example)
