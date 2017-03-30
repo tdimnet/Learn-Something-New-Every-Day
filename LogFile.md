@@ -244,3 +244,12 @@ Started on February 22th 2017
 **Thoughts:** quite cool and relax. I realize that I am already using some good practices of JavaScript :).
 
 **Link to Resources:** [DOM Scripting By Example](https://teamtreehouse.com/library/dom-scripting-by-example)
+
+
+## Day 28: March 30. Tuesday
+
+**Today's Progress:** Add interactivity within the script in order to change the state of an input element when the user clicks a button.
+
+**Thoughts:** This is maybe a really tricky part with JavaScript and the event handlers: managing multiple events at a time.
+
+**Link to Resources:** [DOM Scripting By Example](https://teamtreehouse.com/library/dom-scripting-by-example)
