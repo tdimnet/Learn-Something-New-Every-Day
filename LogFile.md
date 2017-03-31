@@ -246,10 +246,19 @@ Started on February 22th 2017
 **Link to Resources:** [DOM Scripting By Example](https://teamtreehouse.com/library/dom-scripting-by-example)
 
 
-## Day 28: March 30. Tuesday
+## Day 28: March 30. Thursday
 
 **Today's Progress:** Add interactivity within the script in order to change the state of an input element when the user clicks a button.
 
 **Thoughts:** This is maybe a really tricky part with JavaScript and the event handlers: managing multiple events at a time.
+
+**Link to Resources:** [DOM Scripting By Example](https://teamtreehouse.com/library/dom-scripting-by-example)
+
+
+## Day 29: March 31. Friday
+
+**Today's Progress:** Finished the course and found out some really good cases of refactoring opportunities.
+
+**Thoughts:** Well, with these two last courses about JavaScript I followed so far, I have already learned a lot of new stuffs to use :).
 
 **Link to Resources:** [DOM Scripting By Example](https://teamtreehouse.com/library/dom-scripting-by-example)
