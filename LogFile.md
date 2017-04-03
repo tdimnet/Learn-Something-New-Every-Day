@@ -262,3 +262,12 @@ Started on February 22th 2017
 **Thoughts:** Well, with these two last courses about JavaScript I followed so far, I have already learned a lot of new stuffs to use :).
 
 **Link to Resources:** [DOM Scripting By Example](https://teamtreehouse.com/library/dom-scripting-by-example)
+
+
+## Day 30: April 3. Monday
+
+**Today's Progress:** Made an interesting course about conditional statements and how to deal with different sorts of conditions.
+
+**Thoughts:** Well, I haven't learned a lot today but a reminder is always usefull :).
+
+**Link to Resources:** [Exploring JavaScript Conditionals](https://teamtreehouse.com/library/conditional-terminology)
