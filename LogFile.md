@@ -268,6 +268,15 @@ Started on February 22th 2017
 
 **Today's Progress:** Made an interesting course about conditional statements and how to deal with different sorts of conditions.
 
-**Thoughts:** Well, I haven't learned a lot today but a reminder is always usefull :).
+**Thoughts:** Well, I haven't learned a lot today but a reminder is always useful :).
 
 **Link to Resources:** [Exploring JavaScript Conditionals](https://teamtreehouse.com/library/conditional-terminology)
+
+
+## Day 31: April 4. Tuesday
+
+**Today's Progress:** Did a little workshop about the "this" keyword and how to use it with my JavaScript code.
+
+**Thoughts:** This kind of course makes me think that we always need a quick reminder about coding languages' features :).
+
+**Link to Resources:** [Understanding "this" in JavaScript](https://teamtreehouse.com/library/understanding-this-in-javascript)
