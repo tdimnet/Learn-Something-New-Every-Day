@@ -280,3 +280,12 @@ Started on February 22th 2017
 **Thoughts:** This kind of course makes me think that we always need a quick reminder about coding languages' features :).
 
 **Link to Resources:** [Understanding "this" in JavaScript](https://teamtreehouse.com/library/understanding-this-in-javascript)
+
+
+## Day 32: April 9. Sunday
+
+**Today's Progress:** I discovered the module pattern today: I understood the structure of it but I did not fully understand why I need to use it. I am going to do some research. 
+
+**Thoughts:** After few days without having time to learn, I restart with this new workshop. And I have other courses which interests me a lot :).
+
+**Link to Resources:** [The Module Pattern in JavaScript](https://teamtreehouse.com/library/the-module-pattern-in-javascript)
