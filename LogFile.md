@@ -284,8 +284,17 @@ Started on February 22th 2017
 
 ## Day 32: April 9. Sunday
 
-**Today's Progress:** I discovered the module pattern today: I understood the structure of it but I did not fully understand why I need to use it. I am going to do some research. 
+**Today's Progress:** I discovered the module pattern today: I understood the structure of it but I did not fully understand why I need to use it. I am going to do some research.
 
 **Thoughts:** After few days without having time to learn, I restart with this new workshop. And I have other courses which interests me a lot :).
 
 **Link to Resources:** [The Module Pattern in JavaScript](https://teamtreehouse.com/library/the-module-pattern-in-javascript)
+
+
+## Day 33: April 10. Monday
+
+**Today's Progress:** Took a basic course about JavaScript objects and object oriented programming. Did 5 units.
+
+**Thoughts:** I've already done this course few months ago but a reminder is always useful!
+
+**Link to Resources:** [Object-Oriented JavaScript](https://teamtreehouse.com/library/objectoriented-javascript)
