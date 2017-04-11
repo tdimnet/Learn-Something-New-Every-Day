@@ -298,3 +298,12 @@ Started on February 22th 2017
 **Thoughts:** I've already done this course few months ago but a reminder is always useful!
 
 **Link to Resources:** [Object-Oriented JavaScript](https://teamtreehouse.com/library/objectoriented-javascript)
+
+
+## Day 34: April 11. Tuesday
+
+**Today's Progress:** 5 units today! Again! I made great progress with JavaScript objects and the course is really well structured.
+
+**Thoughts:** Hard day at work but good time with the course :).
+
+**Link to Resources:** [Object-Oriented JavaScript](https://teamtreehouse.com/library/objectoriented-javascript)
