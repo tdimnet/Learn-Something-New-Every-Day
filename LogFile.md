@@ -307,3 +307,12 @@ Started on February 22th 2017
 **Thoughts:** Hard day at work but good time with the course :).
 
 **Link to Resources:** [Object-Oriented JavaScript](https://teamtreehouse.com/library/objectoriented-javascript)
+
+
+## Day 35: April 12. Wednesday
+
+**Today's Progress:** I reviewed how to create objects with constructor function and not only by creating object literals. I got the idea but I am wondering where I need to use these solutions.
+
+**Thoughts:** I am reviewing a lot of interesting stuff! I am almost going to begin the ES2015 course on TreeHouse :).
+
+**Link to Resources:** [Object-Oriented JavaScript](https://teamtreehouse.com/library/objectoriented-javascript)
