@@ -316,3 +316,12 @@ Started on February 22th 2017
 **Thoughts:** I am reviewing a lot of interesting stuff! I am almost going to begin the ES2015 course on TreeHouse :).
 
 **Link to Resources:** [Object-Oriented JavaScript](https://teamtreehouse.com/library/objectoriented-javascript)
+
+
+## Day 36: April 13. Thursday
+
+**Today's Progress:** Did a code challenge with the constructor function and worked with prototypes in JavaScript.
+
+**Thoughts:** Nothing to say, everything is going well!
+
+**Link to Resources:** [Object-Oriented JavaScript](https://teamtreehouse.com/library/objectoriented-javascript)
