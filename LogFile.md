@@ -325,3 +325,12 @@ Started on February 22th 2017
 **Thoughts:** Nothing to say, everything is going well!
 
 **Link to Resources:** [Object-Oriented JavaScript](https://teamtreehouse.com/library/objectoriented-javascript)
+
+
+## Day 36: April 16. Sunday
+
+**Today's Progress:** Continued working on the Object Oriented JavaScript course. I did 5 units today.
+
+**Thoughts:** I am understanding a lot with this course and the more I follow course, the better I am felling good with these stuffs :)
+
+**Link to Resources:** [Object-Oriented JavaScript](https://teamtreehouse.com/library/objectoriented-javascript)
