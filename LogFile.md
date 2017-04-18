@@ -343,3 +343,12 @@ Started on February 22th 2017
 **Thoughts:** Feeling well: I submitted a project with Treehouse and did a bit of course :). This is cool!
 
 **Link to Resources:** [Object-Oriented JavaScript](https://teamtreehouse.com/library/objectoriented-javascript)
+
+
+## Day 39: April 18. Tuesday
+
+**Today's Progress:** Almost done with this course and start looking for a new one: maybe a course about css transition :).
+
+**Thoughts:** The more I learn, the more I want to learn :)
+
+**Link to Resources:** [Object-Oriented JavaScript](https://teamtreehouse.com/library/objectoriented-javascript)
