@@ -352,3 +352,12 @@ Started on February 22th 2017
 **Thoughts:** The more I learn, the more I want to learn :)
 
 **Link to Resources:** [Object-Oriented JavaScript](https://teamtreehouse.com/library/objectoriented-javascript)
+
+
+## Day 40: April 18. Tuesday
+
+**Today's Progress:** Finish the course today.
+
+**Thoughts:** Because I have lose my headphones, I have not been abled to follow courses for the past few days :/
+
+**Link to Resources:** [Object-Oriented JavaScript](https://teamtreehouse.com/library/objectoriented-javascript)
