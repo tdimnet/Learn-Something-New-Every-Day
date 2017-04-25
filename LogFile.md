@@ -361,3 +361,12 @@ Started on February 22th 2017
 **Thoughts:** Because I have lose my headphones, I have not been abled to follow courses for the past few days :/
 
 **Link to Resources:** [Object-Oriented JavaScript](https://teamtreehouse.com/library/objectoriented-javascript)
+
+
+## Day 41: April 19. Tuesday
+
+**Today's Progress:** Did a lot of units today, learned new things about JavaScript and its new version :).
+
+**Thoughts:** I cannot wait to use these things in my workflow.
+
+**Link to Resources:** [Introducing ES2015](https://teamtreehouse.com/library/introducing-es2015)
