@@ -370,3 +370,12 @@ Started on February 22th 2017
 **Thoughts:** I cannot wait to use these things in my workflow.
 
 **Link to Resources:** [Introducing ES2015](https://teamtreehouse.com/library/introducing-es2015)
+
+
+## Day 41: April 20. Thursday
+
+**Today's Progress:** I need to master node in order to build a content scrapper. Made some great progress today.
+
+**Thoughts:** For now, I am understanding how Node work and how to do AJAX Request with node :).
+
+**Link to Resources:** [Node.js Basics](https://teamtreehouse.com/library/nodejs-basics-2)
