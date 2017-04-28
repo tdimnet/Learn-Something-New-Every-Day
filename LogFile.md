@@ -379,3 +379,12 @@ Started on February 22th 2017
 **Thoughts:** For now, I am understanding how Node work and how to do AJAX Request with node :).
 
 **Link to Resources:** [Node.js Basics](https://teamtreehouse.com/library/nodejs-basics-2)
+
+
+## Day 42: April 21. Friday
+
+**Today's Progress:** Continue working on the node js course by building an app which talks an API weather forecast :).
+
+**Thoughts:** It's really crazy to thing about what node.js can do today :)
+
+**Link to Resources:** [Node.js Basics](https://teamtreehouse.com/library/nodejs-basics-2)
