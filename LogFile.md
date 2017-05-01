@@ -388,3 +388,12 @@ Started on February 22th 2017
 **Thoughts:** It's really crazy to thing about what node.js can do today :)
 
 **Link to Resources:** [Node.js Basics](https://teamtreehouse.com/library/nodejs-basics-2)
+
+
+## Day 44: Mai 1. Monday
+
+**Today's Progress:** Euhhh ok, I think I've forgotten some things => my log is not up-to-date ^^.
+
+**Thoughts:** I have made some great progress with node.js during the past few days. I am almost ready to build things with node.
+
+**Link to Resources:** [Node.js Basics](https://teamtreehouse.com/library/nodejs-basics-2)
