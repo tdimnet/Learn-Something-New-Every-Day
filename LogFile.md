@@ -397,3 +397,12 @@ Started on February 22th 2017
 **Thoughts:** I have made some great progress with node.js during the past few days. I am almost ready to build things with node.
 
 **Link to Resources:** [Node.js Basics](https://teamtreehouse.com/library/nodejs-basics-2)
+
+
+## Day 45: Mai 2. Tuesday
+
+**Today's Progress:** Start working on the new course about how to build a simple application with Node.js and how to display data from a server.
+
+**Thoughts:** Node.js is so great! I cannot wait to use it more and to build projects with it!!!!
+
+**Link to Resources:** [Build a Simple Dynamic Site with Node.js](https://teamtreehouse.com/library/build-a-simple-dynamic-site-with-nodejs)
