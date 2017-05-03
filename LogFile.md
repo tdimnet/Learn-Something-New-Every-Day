@@ -406,3 +406,12 @@ Started on February 22th 2017
 **Thoughts:** Node.js is so great! I cannot wait to use it more and to build projects with it!!!!
 
 **Link to Resources:** [Build a Simple Dynamic Site with Node.js](https://teamtreehouse.com/library/build-a-simple-dynamic-site-with-nodejs)
+
+
+## Day 46: Mai 3. Wednesday
+
+**Today's Progress:** Continued working on the course on building a simple web site with node.
+
+**Thoughts:** Nothing to say ^^.
+
+**Link to Resources:** [Build a Simple Dynamic Site with Node.js](https://teamtreehouse.com/library/build-a-simple-dynamic-site-with-nodejs)
