@@ -415,3 +415,12 @@ Started on February 22th 2017
 **Thoughts:** Nothing to say ^^.
 
 **Link to Resources:** [Build a Simple Dynamic Site with Node.js](https://teamtreehouse.com/library/build-a-simple-dynamic-site-with-nodejs)
+
+
+## Day 47: Mai 4. Thursday
+
+**Today's Progress:** Start the second unit of the course which deals with handling routes with node.
+
+**Thoughts:** there are some elements that I do not understand with node and with this course :/
+
+**Link to Resources:** [Build a Simple Dynamic Site with Node.js](https://teamtreehouse.com/library/build-a-simple-dynamic-site-with-nodejs)
