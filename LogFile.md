@@ -433,3 +433,12 @@ Started on February 22th 2017
 **Thoughts:** A bit frustrated and a bit block..
 
 **Link to Resources:** [Build a Simple Dynamic Site with Node.js](https://teamtreehouse.com/library/build-a-simple-dynamic-site-with-nodejs)
+
+
+## Day 49: Mai 6. Saturday
+
+**Today's Progress:** Start the third unit of the course: how to create a template with the node engine. Again this time there are a lot of things to understand in order to master node.js
+
+**Thoughts:** I created some snippets of code in order to have a track of what I am doing but I am still a bit lost..
+
+**Link to Resources:** [Build a Simple Dynamic Site with Node.js](https://teamtreehouse.com/library/build-a-simple-dynamic-site-with-nodejs)
