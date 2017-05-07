@@ -442,3 +442,12 @@ Started on February 22th 2017
 **Thoughts:** I created some snippets of code in order to have a track of what I am doing but I am still a bit lost..
 
 **Link to Resources:** [Build a Simple Dynamic Site with Node.js](https://teamtreehouse.com/library/build-a-simple-dynamic-site-with-nodejs)
+
+
+## Day 50: Mai 7. Sunday
+
+**Today's Progress:** I understood some elements with node so I decided to start a new course which deals with npm.
+
+**Thoughts:** I already knew some things about npm and I was interested in particular pieces of infromation.
+
+**Link to Resources:** [npm Basics](https://teamtreehouse.com/library/npm-basics)
