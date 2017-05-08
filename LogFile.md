@@ -451,3 +451,12 @@ Started on February 22th 2017
 **Thoughts:** I already knew some things about npm and I was interested in particular pieces of infromation.
 
 **Link to Resources:** [npm Basics](https://teamtreehouse.com/library/npm-basics)
+
+
+## Day 51: Mai 8. Monday
+
+**Today's Progress:** Finish the last unit of the course which deals with classes, subclasses, static methods and getters and setters.
+
+**Thoughts:** I have already worked with classes in php. However I think I'll need to pratice this new stuff a bit.
+
+**Link to Resources:** [Introducing ES2015](https://teamtreehouse.com/library/introducing-es2015)
