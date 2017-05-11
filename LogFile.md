@@ -460,3 +460,12 @@ Started on February 22th 2017
 **Thoughts:** I have already worked with classes in php. However I think I'll need to pratice this new stuff a bit.
 
 **Link to Resources:** [Introducing ES2015](https://teamtreehouse.com/library/introducing-es2015)
+
+
+## Day 52: Mai 11. Thursday
+
+**Today's Progress:** Create a basic templating engine with node js. The values are now displayed inside a plain html file.
+
+**Thoughts:** The instructor is sometimes going to fast. I think I will need to have a new look on the course in a couple of days.
+
+**Link to Resources:** [Build a Simple Dynamic Site with Node.js](https://teamtreehouse.com/library/build-a-simple-dynamic-site-with-nodejs)
