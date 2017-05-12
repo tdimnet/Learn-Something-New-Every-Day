@@ -469,3 +469,12 @@ Started on February 22th 2017
 **Thoughts:** The instructor is sometimes going to fast. I think I will need to have a new look on the course in a couple of days.
 
 **Link to Resources:** [Build a Simple Dynamic Site with Node.js](https://teamtreehouse.com/library/build-a-simple-dynamic-site-with-nodejs)
+
+
+## Day 53: Mai 12. Friday
+
+**Today's Progress:** Followed a great course about Promises and how to deal with them. I think I am going to use them very often :).
+
+**Thoughts:** I need to have a look on promises in order to finish a project. It will definitely help me a lot.
+
+**Link to Resources:** [Understanding Promises in Javascript](https://teamtreehouse.com/library/understanding-promises-in-javascript)
