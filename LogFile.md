@@ -478,3 +478,12 @@ Started on February 22th 2017
 **Thoughts:** I need to have a look on promises in order to finish a project. It will definitely help me a lot.
 
 **Link to Resources:** [Understanding Promises in Javascript](https://teamtreehouse.com/library/understanding-promises-in-javascript)
+
+
+## Day 54: Mai 13. Saturday
+
+**Today's Progress:** Finish the course for building a simple search web app with node js. I think I will have a look on it later on in order to have a reminder :).
+
+**Thoughts:** I understood a lot with this course. However I think I need to practice this a little more.
+
+**Link to Resources:** [Build a Simple Dynamic Site with Node.js](https://teamtreehouse.com/library/build-a-simple-dynamic-site-with-nodejs)
