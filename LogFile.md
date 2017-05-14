@@ -487,3 +487,12 @@ Started on February 22th 2017
 **Thoughts:** I understood a lot with this course. However I think I need to practice this a little more.
 
 **Link to Resources:** [Build a Simple Dynamic Site with Node.js](https://teamtreehouse.com/library/build-a-simple-dynamic-site-with-nodejs)
+
+
+## Day 55: Mai 14. Sunday
+
+**Today's Progress:** Finish some units about npm. I already worked with npm on my daily basis.
+
+**Thoughts:** A reminder always helps :).
+
+**Link to Resources:** [npm Basics](https://teamtreehouse.com/library/npm-basics)
