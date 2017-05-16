@@ -505,3 +505,12 @@ Started on February 22th 2017
 **Thoughts:** For now I have not big issues when working with express.
 
 **Link to Resources:** [Express Basics](https://teamtreehouse.com/library/express-basics)
+
+
+## Day 56: Mai 16. Tuesday
+
+**Today's Progress:** Add a fake mock data models with a Json file, add a blog route and install two npm packages (nodemon and node-inspector)
+
+**Thoughts:** This course is great! Some really fancy stuffs are shown during it.
+
+**Link to Resources:** [Express Basics](https://teamtreehouse.com/library/express-basics)
