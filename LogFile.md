@@ -514,3 +514,12 @@ Started on February 22th 2017
 **Thoughts:** This course is great! Some really fancy stuffs are shown during it.
 
 **Link to Resources:** [Express Basics](https://teamtreehouse.com/library/express-basics)
+
+
+## Day 56: Mai 17. Wednesday
+
+**Today's Progress:** Worked with requests and responses with node. Also did a great job with debugging express applications.
+
+**Thoughts:** There are really great tools and modules for debugging node/express applications.
+
+**Link to Resources:** [Express Basics](https://teamtreehouse.com/library/express-basics)
