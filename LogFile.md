@@ -523,3 +523,12 @@ Started on February 22th 2017
 **Thoughts:** There are really great tools and modules for debugging node/express applications.
 
 **Link to Resources:** [Express Basics](https://teamtreehouse.com/library/express-basics)
+
+
+## Day 56: Mai 18. Thursday
+
+**Today's Progress:** Worked with jade templating engine by creating multiple partials into their respective folder.
+
+**Thoughts:** Hopefully I have already worked with templating engines so I am not really in trouble now :).
+
+**Link to Resources:** [Express Basics](https://teamtreehouse.com/library/express-basics)
