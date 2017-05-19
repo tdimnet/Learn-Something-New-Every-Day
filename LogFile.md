@@ -532,3 +532,12 @@ Started on February 22th 2017
 **Thoughts:** Hopefully I have already worked with templating engines so I am not really in trouble now :).
 
 **Link to Resources:** [Express Basics](https://teamtreehouse.com/library/express-basics)
+
+
+## Day 57: Mai 19. Friday
+
+**Today's Progress:** Add static functions to jade/pug templates. The website is now using the css files.
+
+**Thoughts:** I feel I am understanding well this course :).
+
+**Link to Resources:** [Express Basics](https://teamtreehouse.com/library/express-basics)
