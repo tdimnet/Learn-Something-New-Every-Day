@@ -541,3 +541,12 @@ Started on February 22th 2017
 **Thoughts:** I feel I am understanding well this course :).
 
 **Link to Resources:** [Express Basics](https://teamtreehouse.com/library/express-basics)
+
+
+## Day 58: Mai 20. Saturday
+
+**Today's Progress:** 4 units today where I saw how to list my skills and describe my project experience :)
+
+**Thoughts:** Short break with express today. Though This new course might help :)
+
+**Link to Resources:** [Building Your Resume](https://teamtreehouse.com/library/building-your-resume)
