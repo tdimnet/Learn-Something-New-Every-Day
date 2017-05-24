@@ -550,3 +550,12 @@ Started on February 22th 2017
 **Thoughts:** Short break with express today. Though This new course might help :)
 
 **Link to Resources:** [Building Your Resume](https://teamtreehouse.com/library/building-your-resume)
+
+
+## Day 59: Mai 24. Wednesday
+
+**Today's Progress:** Finish the express course. Understood a lot of ins and outs with express.
+
+**Thoughts:** :)
+
+**Link to Resources:** [Express Basics](https://teamtreehouse.com/library/express-basics)
