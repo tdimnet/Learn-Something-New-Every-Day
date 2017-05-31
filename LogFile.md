@@ -568,3 +568,12 @@ Started on February 22th 2017
 **Thoughts:** Express seems to be really powerful. I have now a global overview of how to work with it.
 
 **Link to Resources:** [Express Basics](https://teamtreehouse.com/library/express-basics)
+
+
+## Day 61: Mai 31. Wednesday
+
+**Today's Progress:** Learned how to select element with d3 and how to work with svg inline elements.
+
+**Thoughts:** I have learned how to work with svg elements and in particular how to style them directly in the browser and without using an editor like indesign.
+
+**Link to Resources:** [D3.js](https://teamtreehouse.com/library/d3js)
