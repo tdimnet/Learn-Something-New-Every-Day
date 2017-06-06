@@ -577,3 +577,12 @@ Started on February 22th 2017
 **Thoughts:** I have learned how to work with svg elements and in particular how to style them directly in the browser and without using an editor like indesign.
 
 **Link to Resources:** [D3.js](https://teamtreehouse.com/library/d3js)
+
+
+## Day 62: June 6. Tuesday
+
+**Today's Progress:** Worked with React redux and React reducers.
+
+**Thoughts:** I am understanding how it works, that's cool.
+
+**Link to Resources:** [D3.js](https://teamtreehouse.com/library/d3js)
