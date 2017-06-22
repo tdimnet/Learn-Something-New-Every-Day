@@ -586,3 +586,12 @@ Started on February 22th 2017
 **Thoughts:** I am understanding how it works, that's cool.
 
 **Link to Resources:** [D3.js](https://teamtreehouse.com/library/d3js)
+
+
+## Day 63: June 22. Thursday
+
+**Today's Progress:** Saw things about the geolocation api and how to implement it.
+
+**Thoughts:** Big big break in this challenge even though I continued learning every day.
+
+**Link to Resources:** [Using The Geolocation Api In Javascript](https://teamtreehouse.com/library/using-the-geolocation-api-in-javascript)
